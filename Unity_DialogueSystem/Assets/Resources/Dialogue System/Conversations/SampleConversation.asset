@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6d104ab9f063d44ab6c1d9f9ae64a33, type: 3}
+  m_Name: SampleConversation
+  m_EditorClassIdentifier: 
+  characters:
+  - {fileID: 11400000, guid: 79ad3b41038aedd48bfe6f63a0a4c929, type: 2}
+  - {fileID: 11400000, guid: 322a41a3aef98ec4ebbff2d3fae59dbc, type: 2}
+  node_sequence:
+  - character: {fileID: 11400000, guid: 79ad3b41038aedd48bfe6f63a0a4c929, type: 2}
+    sequenceIndex: 0
+    dialogueIndex: 0
+    scrollerPos: {x: 0, y: 0}
+    selected: 0
+  - character: {fileID: 11400000, guid: 322a41a3aef98ec4ebbff2d3fae59dbc, type: 2}
+    sequenceIndex: 0
+    dialogueIndex: 0
+    scrollerPos: {x: 0, y: 0}
+    selected: 0
+  - character: {fileID: 11400000, guid: 322a41a3aef98ec4ebbff2d3fae59dbc, type: 2}
+    sequenceIndex: 0
+    dialogueIndex: 1
+    scrollerPos: {x: 0, y: 0}
+    selected: 0
+  - character: {fileID: 11400000, guid: 79ad3b41038aedd48bfe6f63a0a4c929, type: 2}
+    sequenceIndex: 0
+    dialogueIndex: 1
+    scrollerPos: {x: 0, y: 0}
+    selected: 0
+  - character: {fileID: 11400000, guid: 79ad3b41038aedd48bfe6f63a0a4c929, type: 2}
+    sequenceIndex: 0
+    dialogueIndex: 2
+    scrollerPos: {x: 0, y: 0}
+    selected: 0
